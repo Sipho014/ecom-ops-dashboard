@@ -3,12 +3,12 @@
   "project": "LANGLEY",
   "handle": "@Siphodegier_",
   "sessionLabel": "9 OCT ECOM RECAP",
-  "tasksCompleted": 31,
-  "tasksTotal": 31,
+  "tasksCompleted": 2,
+  "tasksTotal": 2,
   "outputLabel": "PRODUCT RECORDS UPDATED",
   "ratioLabel": "31 VERIFIED MODIFICATIONS",
   "workLabel": "VERIFIED CATALOG ACTIVITY",
-  "status": "CATALOG UPDATES VERIFIED",
+  "status": "31 PRODUCT UPDATES VERIFIED",
   "storeStatus": "PRE-LAUNCH",
   "researchSignals": 0,
   "videosAnalyzed": 0,
@@ -20,13 +20,11 @@
   "keyWins": [
     "31 productrecords gewijzigd op vrijdag 9 oktober (Shopify updatedAt; Nederlandse tijd)",
     "23 jurk-productrecords en 8 blouse-productrecords bijgewerkt",
-    "Van deze 31 staan er nu 30 ACTIVE en 1 DRAFT (Corinne)"
+    "30 betrokken productrecords staan op ACTIVE en 1 op DRAFT"
   ],
   "tasks": [
-    "23 jurken: wijzigingen op productrecords vastgesteld in Shopify",
-    "8 blouses: wijzigingen op productrecords vastgesteld in Shopify",
-    "Statuscontrole uitgevoerd: 30 ACTIVE, 1 DRAFT binnen gewijzigde producten",
-    "De precieze wijzigingen per product zijn niet uit updatedAt af te leiden"
+    "23 jurk-productrecords met een update op 9 oktober 2026",
+    "8 blouse-productrecords met een update op 9 oktober 2026"
   ],
   "pendingTasks": [
     "Resterende productfoto's controleren en verwerken",
@@ -35,6 +33,6 @@
     "Domein via Shopify registreren en koppelen",
     "Checkout/GBP-payments, Meta-tracking en mobiele QA"
   ],
-  "sourceNote": "Shopify Admin read-only product updatedAt; 2026-10-09 00:00–23:59 Europe/Amsterdam. Planning is niet als voltooid geboekt.",
+  "sourceNote": "Shopify Admin read-only product updatedAt; 2026-10-09 00:00–23:59 Europe/Amsterdam. Planning is niet als voltooid geboekt. Headline telt 2 geclusterde cataloguswerkstromen, niet 31 afzonderlijk bewezen taken.",
   "lastUpdated": "10 Oct 2026 · verified Shopify recap"
 }
