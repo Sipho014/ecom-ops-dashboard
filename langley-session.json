@@ -2,13 +2,13 @@
   "date": "11–12 Oct 2026",
   "project": "LANGLEY × SMT",
   "handle": "@Siphodegier_",
-  "sessionLabel": "15H EXECUTION PUSH",
-  "tasksCompleted": 14,
-  "tasksTotal": 14,
+  "sessionLabel": "15H CROSS-PROJECT RECAP",
+  "tasksCompleted": 94,
+  "tasksTotal": 94,
   "outputLabel": "CROSS-PROJECT EXECUTION",
   "ratioLabel": "14 VERIFIED OUTPUT BLOCKS",
   "workLabel": "LANGLEY + RITA CELESTINE / SMT",
-  "status": "15H PUSH LOGGED · VERIFIED OUTPUT ONLY",
+  "status": "94 TASKS REPORTED · 14 OUTPUT BLOCKS DOCUMENTED",
   "storeStatus": "PRE-LAUNCH",
   "researchSignals": "50 + 44",
   "videosAnalyzed": 0,
@@ -46,6 +46,8 @@
     "Langley backend afronden: shipping, returns, taxes/policies, domain, checkout/payments en tracking QA",
     "SMT-map volledige eindcontrole afronden voordat definitief groen licht voor versturen wordt gegeven"
   ],
-  "sourceNote": "Recap van circa 15 uur, 11 Oct 2026 09:21 t/m 12 Oct 2026 00:21 Europe/Amsterdam. Alleen expliciet afgeronde output en vastgelegde besluiten zijn als done geboekt. Productfotografie en definitieve SMT send-QA stonden nog open en zijn niet als voltooid geteld.",
-  "lastUpdated": "12 Oct 2026 · 00:21 · 15H cross-project push"
+  "sourceNote": "Recap van circa 15 uur, 11 Oct 2026 09:21 t/m 12 Oct 2026 00:21 Europe/Amsterdam. Alleen expliciet afgeronde output en vastgelegde besluiten zijn als done geboekt. Productfotografie en definitieve SMT send-QA stonden nog open en zijn niet als voltooid geteld. Dashboard task headline 94 comes from user-reported total, not 94 individually audited task records. 7h22 is user-reported tracked session time; 15h is recap window.",
+  "lastUpdated": "12 Oct 2026 · 94-task reported recap · 7h22 tracked",
+  "sessionDuration": "7H 22M",
+  "taskCountSource": "User-reported total; 14 consolidated output blocks documented"
 }
